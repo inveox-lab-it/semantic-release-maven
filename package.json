@@ -1,0 +1,16 @@
+{
+  "name": "semantic-release-maven",
+  "version": "1.0.0",
+  "description": "Manage version in pom.xml",
+  "main": "index.js",
+  "repository": "git@github.com:inveox-lab-it/semantic-release-helm.git",
+  "author": "Marcin Orzechowski <marcin.orzechowski@inveox.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@semantic-release/error": "^2.2.0",
+    "yaml": "^1.10.0",
+    "execa": "^4.0.0",
+    "lodash": "^4.17.4"
+  }
+}
